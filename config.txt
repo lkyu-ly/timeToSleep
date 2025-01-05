@@ -1,0 +1,20 @@
+; 空闲时持续检测的秒数
+n=5
+
+空闲检测间隔（毫秒）
+idleCheckInterval=1000
+
+持续检测间隔（毫秒）
+activeCheckInterval=100
+
+; 允许的误差范围（像素）
+toleranceX=10
+toleranceY=10
+
+; 鼠标移动的目标X坐标（默认屏幕中心）
+; moveX=800
+; moveY=600
+
+; 角的坐标
+topX=0
+topY=0
